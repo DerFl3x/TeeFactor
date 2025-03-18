@@ -1,4 +1,4 @@
-# teefactor
+# TeeFactor 2FA
 
 A simple independent Two-Factor Authenticator
 
